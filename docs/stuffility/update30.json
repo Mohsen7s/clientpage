@@ -1,0 +1,15 @@
+[
+  {
+    "numeric": 3400,
+    "remove": [ "msvcr110.dll", "AllTheHaxx-NoLua.exe" ],
+    "download":
+    [
+      {
+        "repo": "AllTheHaxx",
+        "tree": "4eb9ab1002993cb26d052e1c9bc837f48f9803d0",
+        "files": ["other/config_directory.bat", "other/AllTheHaxx-StealthMode.bat"],
+        "dest": "./"
+      }
+    ]
+  }
+]

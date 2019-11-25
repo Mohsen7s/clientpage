@@ -7,4 +7,3 @@ https://sash.mybin.ir
 
 |$$2RISash 1.0.0 released! [11/24/2019]|
 - Press  $$ZNQ F9 $$ZZZ to open bot config menu!
-

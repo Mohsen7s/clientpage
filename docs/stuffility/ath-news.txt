@@ -2,12 +2,14 @@
 |$$N00Please join our discord!|
 https://discord.gg/TpHuvH
 
-1.Report bugs on discord
-2.Ask features on discord
-3.Make tutorial video for bot [Specially recording part of maps for automatic finish]
+$$Z001.Report bugs on discord
+$$Z002.Ask features on discord
+$$Z003.Make tutorial video for bot [Specially recording part of maps for automatic finish]
+
+Special thanks to our beta testers:
+-Tactic
 
 
-$$Z00If you get "update check failed" re-download the zip from our website!
 https://sash.mybin.ir
 
 |$$2RISash 1.0.0 released! [11/24/2019]|

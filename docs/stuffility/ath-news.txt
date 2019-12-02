@@ -2,10 +2,10 @@
 |$$N00Please join our discord!|
 https://discord.gg/TpHuvH
 
-$$Z001.Report bugs on discord
-$$Z002.Ask features on discord
-$$Z003.Make tutorial video for bot [Specially recording part of maps for automatic finish]
+$$Z001.Report bugs/Ask new feature on discord
+$$Z002.Make tutorial video for bot [Specially recording part of maps for automatic finish]
 
+We are looking for beta-testers and video makers
 Special thanks to our beta testers:
 -Tactic
 

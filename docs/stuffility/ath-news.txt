@@ -12,6 +12,8 @@ Special thanks to our beta testers:
 
 https://sash.mybin.ir
 
+|$$2RISash 1.0.1 released! [12/02/2019]|
+- Press  $$ZNQ F12 $$ZZZ to restrict bot on players!
+
 |$$2RISash 1.0.0 released! [11/24/2019]|
 - Press  $$ZNQ F9 $$ZZZ to open bot config menu!
-- Press  $$ZNQ F12 $$ZZZ to restrict bot on players!

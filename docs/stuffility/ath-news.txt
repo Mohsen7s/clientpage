@@ -4,6 +4,7 @@ http://discord.mybin.ir/
 
 $$Z001.Report bugs/Ask new feature on discord
 $$Z002.Make tutorial video for bot [Specially recording part of maps for automatic finish]
+$$Z003.Share your recorded playbackbot folder 'rec' on discord so I can include them in next release!
 
 We are looking for beta-testers and video makers
 Special thanks to our beta testers:

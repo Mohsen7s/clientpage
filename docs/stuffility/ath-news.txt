@@ -2,17 +2,16 @@
 |$$N00Please join our discord!|
 Double-Click To Join Discord http://discord.mybin.ir/
 Double-Click To Check Website https://sash.mybin.ir
+Double-Click To Check Tutorial Video[Persian] https://sash.mybin.ir
+Double-Click To Check Tutorial Video[English] https://sash.mybin.ir
 
 $$Z001.Report bugs/Ask new feature on discord
-$$Z002.Make tutorial video for bot [Specially recording part of maps for automatic finish]
-$$Z003.Share your recorded playbackbot folder 'rec' on discord so I can include them in next release!
+$$Z002.Share your recorded playbackbot folder 'rec' on discord so I can include them in next release!
 
 We are looking for beta-testers and video makers
-Special thanks to our beta testers:
--Tactic
+Special thanks to our contributors:
+-Tactic[Beta-Tester], Quick[Tutorial Video]
 
-|$$2RISash 1.0.1 released! [12/02/2019]|
+|$$2RISash 1.0.1 released! [12/16/2019]|
 - Press  $$ZNQ F12 $$ZZZ to restrict bot on players!
-
-|$$2RISash 1.0.0 released! [11/24/2019]|
 - Press  $$ZNQ F9 $$ZZZ to open bot config menu!

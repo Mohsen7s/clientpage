@@ -175,6 +175,52 @@ blink {
 			<li> Use Wallshot Hit ALWAYS </li>
 		</ul>
 		<p>> <blink>_</blink>
+		<!-- disable CTRL U and Right Click -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+};
+$(document).keypress("u",function(e) {
+  if(e.ctrlKey)
+  {
+return false;
+}
+else
+{
+return true;
+}
+});
+</script>
+<script>
+	$(window).on('keydown',function(event)
+    {
+    if(event.keyCode==123)
+    {
+        return false;
+    }
+    else if(event.ctrlKey && event.shiftKey && event.keyCode==73)
+    {
+        return false;  //Prevent from ctrl+shift+i
+    }
+    else if(event.ctrlKey && event.keyCode==73)
+    {
+        return false;  //Prevent from ctrl+shift+i
+    }
+});
+$(document).on("contextmenu",function(e)
+{
+e.preventDefault();
+});
+</script>
 	</body>
 	
 <script>

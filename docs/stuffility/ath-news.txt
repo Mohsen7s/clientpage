@@ -5,8 +5,10 @@ Double-Click To Check Website https://sash.mybin.ir
 Double-Click To Check Tutorial Video[Persian] https://www.aparat.com/v/eZbYR
 Double-Click To Check Tutorial Video[English] https://youtu.be/ZYtpO4y_BDc
 
-$$Z001.Report bugs/Ask new feature on discord
-$$Z002.Share your recorded playbackbot folder 'rec' on discord so I can include them in next release!
+$$Z001.Report bugs/Ask new feature on Telegram
+$$Z002.Share your recorded playbackbot folder 'rec' on Telegram so I can include them in next release!
+
+$$Z001.OWNER: г-н.вирус
 
 We are looking for beta-testers and video makers
 Special thanks to our contributors:

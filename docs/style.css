@@ -83,3 +83,7 @@ ul {
 blink {
 	animation: blink 1s infinite;
 }
+::selection{
+	color:black;
+	background-color: #0a0;
+}

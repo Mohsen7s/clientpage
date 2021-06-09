@@ -9,96 +9,8 @@
 		<meta http-equiv="Pragma" content="no-cache">
 		<meta http-equiv="Expires" content="0">
 		<link rel="shortcut icon" type="image/x-icon" href="lg.ico" />
+		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
-
-<style>
-@font-face {
-	font-family: compy;
-	src: local(Fixedsys), url("https://mybin.ir/FSEX300.ttf");
-	font-display: swap;
-}
-html {
-	background-color: black;
-	background-image:
-		linear-gradient(transparent, rgba(0,200,0,.1) 30%, rgba(0,200,0,.1) 70%, transparent),
-		repeating-linear-gradient(transparent, rgba(0,127,0,.2) 2px, transparent 4px);
-	background-size: 100% 180px, 100% 100%;
-	animation: crt 10s infinite;
-	color: #0a0;
-	font-weight: bold;
-	font-family: compy, monospace;
-	font-size: 24px;
-}
-@keyframes crt {
-	0% { background-position: 0 0, 0 0; animation-timing-function: linear; }
-	100% { background-position: 0 -180px, 0 0; }
-}
-body {
-	animation: text-blur 4s infinite, text-blink 11s infinite;
-	color: transparent;
-	overflow-x: hidden;
-}
-@keyframes text-blur {
-	0%, 50%, 90%, 100% { text-shadow: #0a0 0 0 1px; }
-	60%, 80% { text-shadow: #0a0 0 0 2px; }
-	70% { text-shadow: #0a0 0 0 5px; }
-}
-@keyframes text-blink {
-	0% {
-		transform: skewX(0deg);
-	}
-	20% {
-		transform: skewX(0deg);
-	}
-	21% {
-		transform: skewX(-3deg);
-	}
-	35% {
-		opacity: 1;
-		transform: skewX(0deg);
-	}
-	35.5% {
-		opacity: .3;
-		transform: skewX(70deg);
-	}
-	36% {
-		transform: skewX(-60deg);
-	}
-	36.5% {
-		opacity: 1;
-		transform: skewX(0deg);
-	}
-	100% {
-		transform: skewX(0deg);
-	}
-}
-a {
-	color: inherit;
-}
-a.folder::after {
-	content: "/";
-}
-a.script::after {
-	content: attr(extension);
-}
-p {
-	margin: .1em 0;
-}
-ul {
-	list-style: none;
-	padding: 0 0 0 1em;
-}
-@keyframes blink {
-	0% { opacity: 0; }
-	25% { opacity: 0; }
-	25.1% { opacity: 1; }
-	100% { opacity: 1; }
-}
-blink {
-	animation: blink 1s infinite;
-}
-</style>
-
 	<body>
 		<p>Welcome to my machine!</p>
 		<p>The current system time is <a href="https://MRvirusIR.ir" target="_blank">10000111010100111011110001100101011</a>.</p>
@@ -109,7 +21,6 @@ blink {
 			<li><a href="https://mega.nz/file/dlQzlS5T#CA6AR_-Q3dUvIIz3YyTwtt_kQrEhJiz6HbEwgfWIT1A" target="_blank">Click To Download Sash Client!! [MEGA MIRROR] </a>
 			<li><a href="http://uploadb.me/direct/a8sopxvaog6d/SashPub.zip.html" target="_blank">Click To Download Sash Client!! [UPBOY MIRROR] </a>
 			<li><a href="https://t.me/sashclient" target="_blank">Click To Join Telegram!</a>
-
 		</ul>
 		<p>List of features</p>
 		<ul>
@@ -176,22 +87,22 @@ blink {
 		</ul>
 		<p>> <blink>_</blink>
 		<!-- disable CTRL U and Right Click -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
 document.onkeydown = function(e) {
         if (e.ctrlKey && 
             (e.keyCode === 67 || 
-             e.keyCode === 86 || 
-             e.keyCode === 85 || 
-             e.keyCode === 117)) {
+			e.keyCode === 86 || 
+			e.keyCode === 85 || 
+			e.keyCode === 117)) {
             return false;
         } else {
             return true;
         }
 };
 $(document).keypress("u",function(e) {
-  if(e.ctrlKey)
-  {
+if(e.ctrlKey)
+{
 return false;
 }
 else

@@ -8,7 +8,6 @@ Double-Click To Check Tutorial Video[English] https://youtu.be/ZYtpO4y_BDc
 $$Z001.Report bugs/Ask new feature on Telegram
 $$Z002.Share your recorded playbackbot folder 'rec' on Telegram so I can include them in next release!
 
-|$$N00OWNER: г-н.вирус |
 
 We are looking for beta-testers and video makers
 Special thanks to our contributors:

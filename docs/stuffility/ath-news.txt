@@ -13,6 +13,7 @@ We are looking for beta-testers and video makers
 Special thanks to our contributors:
 -DeafDenis
 
-|$$2RISash 19.2 released! [2025/05/15]|
+|$$2RISash 19.6 released! [2025/05/15]|
 - Press  $$ZNQ F12 $$ZZZ to restrict bot on players!
 - Press  $$ZNQ F9 $$ZZZ to open bot config menu!
+
